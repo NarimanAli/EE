@@ -1,4 +1,4 @@
-# EE Task 1,2,3
+# Electronics and Power Task 1,2,3
 
 
 # Task 1 : Brushless motor control system design, including the algorithm and the electronic circuit
